@@ -23,10 +23,10 @@
 - Эскалация на руководителя при недоступности сотрудников
 - Автоматические уведомления о пропущенных звонках
 
-![Диаграмма процесса маршрутизации звонков](call-routing/diagram.png)
+![Диаграмма процесса маршрутизации звонков](call-routing/call-routing.jpg)
 
 **Файлы:**
-- [Диаграмма BPMN](call-routing/call-routing-process.drawio)
+- [Диаграмма BPMN](call-routing/Маршрутизация.drawio)
 
 ---
 
@@ -41,10 +41,10 @@
 - Управление жизненным циклом промокодов (активация, отмена, аннулирование)
 - Получение скидки при покупке игры
 
-![Диаграмма процесса онлайн-тестов](online-tests/diagram.png)
+![Диаграмма процесса онлайн-тестов](online-tests/online-tests.jpg)
 
 **Файлы:**
-- [Диаграмма BPMN](online-tests/online-tests-process.drawio)
+- [Диаграмма BPMN](online-tests/Онлайн-тесты.drawio)
 
 ---
 
@@ -59,10 +59,10 @@
 - Выдача промокодов победителям
 - Управление промокодами (отправка, активация, отмена)
 
-![Диаграмма процесса оффлайн-турниров](offline-tournament/diagram.png)
+![Диаграмма процесса оффлайн-турниров](offline-tournament/Оффлайн-раунды.jpg)
 
 **Файлы:**
-- [Диаграмма BPMN](offline-tournament/offline-tournament-process.drawio)
+- [Диаграмма BPMN](offline-tournament/Оффлайн-раунды.drawio)
 
 ---
 
@@ -77,10 +77,10 @@
 - Уведомление линейного менеджера
 - Создание недостающих планов адаптации
 
-![Диаграмма процесса оформления сотрудника](employee-onboarding/diagram.png)
+![Диаграмма процесса оформления сотрудника](employee-onboarding/Оформление сотрудника.jpg)
 
 **Файлы:**
-- [Диаграмма BPMN](employee-onboarding/employee-onboarding-process.drawio)
+- [Диаграмма BPMN](employee-onboarding/Прием на работу сотрудника.drawio)
 
 ## Ключевые компетенции
 
